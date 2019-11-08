@@ -22,7 +22,7 @@ xkb_symbols "basic" {
 
     key <AD01>	{ [	U02B0,		U02B1]	}; // [ʰ], [ʱ]
     key <AD02>	{ [	U00E6,		q]	}; // [æ], [q] found in Urdu
-    key <AD03>	{ [	a,			E]	}; // [a]
+    key <AD03>	{ [	a,			U028B]	}; // [a]
     key <AD04>	{ [	i,			r]	}; // [i]
     key <AD05>	{ [	u,			T]	}; // [u]
     key <AD06>	{ [	b,			Y]	}; // [b]
