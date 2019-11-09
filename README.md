@@ -7,7 +7,7 @@ This keyboard is very easy to install. You have to follow 3 steps.
 - Add the keyboard code file (IIPA) to the following path -
 
 ```
-/usr/share/X11/xkb/symbols/IIPA
+/usr/share/X11/xkb/symbols/
 ```
 
 - Replace the `evdev.xml` file present in the following path with the file uploaded provided in this repository.
