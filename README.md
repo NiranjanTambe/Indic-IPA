@@ -1,5 +1,5 @@
 # Indic-IPA
-X11 ubuntu keyboards allow us to modify the existing mapping &amp; form new keyboards. This is an attempt to form a keyboard based on very popular inscript layout. This keyboard can roughly be useful for transcribing major Indo-Aryan languages. eg. Marathi, Hindi, Urdu, Gujarati, Bangla, Konkani, Kashmiri. Documentation has all the instructions about how to add a new character or replace an existing character.
+X11 keyboards allow us to modify the existing mapping &amp; form new keyboards. This is an attempt to form a keyboard based on very popular inscript layout. This keyboard can roughly be useful for transcribing major Indo-Aryan languages. eg. Marathi, Hindi, Urdu, Gujarati, Bangla, Konkani, Kashmiri. Documentation has all the instructions about how to add a new character or replace an existing character.
 
 # How to install
 This keyboard is very easy to install. You have to follow 3 steps.
