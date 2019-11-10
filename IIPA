@@ -2,8 +2,6 @@
 
 // This layout is developed by Niranjan Tambe in July 2019 for typing Indic languages in International Phonetic Alphabet (IPA).
 
-// $XFree86: xc/programs/xkbcomp/symbols/latin,v 1.3 2002/12/20 20:18:34 paulo Exp $
-
 default partial
 xkb_symbols "basic" {
 
